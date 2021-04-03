@@ -1,0 +1,14 @@
+/*formulario de cadastro*/
+.centralizador{
+  padding-top: 20px;
+  padding-left: 220px;
+  padding-right: 220px;
+  padding-bottom: 40px;
+}
+
+.form-cadastro{
+  border: solid 2px #444;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #56f;
+  padding: 6px;
+}

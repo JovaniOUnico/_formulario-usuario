@@ -1,0 +1,21 @@
+{
+  "name": "formularioDeCadastro",
+  "homepage": "https://github.com/JovaniOUnico/formularioUsuario",
+  "authors": [
+    "jovaniAlmeida <jovani.souza.almeida@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  }
+}
