@@ -22,3 +22,16 @@ Crie um formulário que colete os dados pessoais de uma pessoa, que são:
  - E-mail.
 
 Em seguida, apresente esses dados em uma nova página pelo método POST.
+
+## Melhorias Futuras
+
+- Responsividade
+- Design
+- Criar varios outros modelos de formulário como template
+
+## Prints
+
+Formulário
+<img src='https://imgur.com/uboou7h'>
+
+<img src='https://i.imgur.com/4LL3b5E.png'>
