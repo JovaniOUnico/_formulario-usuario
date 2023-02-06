@@ -32,6 +32,6 @@ Em seguida, apresente esses dados em uma nova página pelo método POST.
 ## Prints
 
 Formulário
-<img src='https://imgur.com/a/iQQq81M'>
+<img src='https://i.imgur.com/vT4ywiw.png'>
 
 <img src='https://i.imgur.com/4LL3b5E.png'>
