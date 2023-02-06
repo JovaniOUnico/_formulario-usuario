@@ -34,4 +34,5 @@ Em seguida, apresente esses dados em uma nova página pelo método POST.
 Formulário
 <img src='https://i.imgur.com/vT4ywiw.png'>
 
+Exibição dos dados
 <img src='https://i.imgur.com/4LL3b5E.png'>
