@@ -4,7 +4,7 @@
 
 comandos:
 
-npm intall bower -g
+npm install bower -g
 
 bower update
 
